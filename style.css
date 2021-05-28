@@ -68,11 +68,20 @@ p{
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
 }
+
+footer {
+    width:100%;
+    overflow:hidden
+}
 footer p{
     text-align: center;
     font: 12px;
-    float: left;
+
     
+}
+
+img{
+    width:100%
 }
     
 
